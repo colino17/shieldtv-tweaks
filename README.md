@@ -5,7 +5,7 @@ Various tweaks, scripts, and tricks for the NVIDIA Shield TV.
 ## Developer Options
 
 - Enable Developer Options
-- Turn on ADB debugging (this activates network debugging)
+- Turn on ADB debugging
 - Allow installing from unknown sources
 
 ## Apps to Install (Store)
