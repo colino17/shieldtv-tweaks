@@ -22,6 +22,7 @@ Various tweaks, scripts, and tricks for the NVIDIA Shield TV.
 
 - KodiLauncher
 - WWE
+- Settings
 
 ## KODI Addons to Install
 
